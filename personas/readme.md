@@ -1,6 +1,6 @@
 # Personas
 
-Description ...
+Description ... [TODO]
 
 ### First responder: Nicole Jacobs
 
