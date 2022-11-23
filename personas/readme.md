@@ -32,3 +32,7 @@ Senior Programmer
 
 ![Outdoor Adventurer](outdoor-adventurer.jpg)
 
+### CEO
+
+![CEO](CEO.jpg)
+
