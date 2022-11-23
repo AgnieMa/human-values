@@ -1,1 +1,1 @@
-# human-values
+# Human values
