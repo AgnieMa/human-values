@@ -9,3 +9,7 @@ Description ...
 ### First responder: Ed Gugenheimer
 
 ![First responder -- Ed Gugenheimer](first-responder-man.jpg)
+
+### Pilot
+
+![Pilot](pilot.jpg)
