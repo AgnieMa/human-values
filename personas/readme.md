@@ -22,7 +22,7 @@ Senior Programmer
 
 ### Scurity Expert
 
-![Scurity Expert](securty-expert.jpg)
+![Scurity Expert](security-expert.jpg)
 
 ### Legal Counsel
 
