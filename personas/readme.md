@@ -20,6 +20,10 @@ Senior Programmer
 
 ![Senior Programmer](senior-programmer.jpg)
 
+### Scurity Expert
+
+![Scurity Expert](securty-expert.jpg)
+
 ### Legal Counsel
 
 ![Legal Counsel](legal-counsel.jpg)
