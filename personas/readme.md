@@ -2,6 +2,7 @@
 
 Description ...
 
-### First responder: woman
+### First responder: Nicole Jacobs
 
-![First responder -- woman](first-responder-woman.jpg)
+![First responder -- Nicole Jacobs](first-responder-woman.jpg)
+
