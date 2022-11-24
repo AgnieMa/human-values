@@ -31,4 +31,3 @@ Senior Programmer
 ### CEO
 
 ![CEO](CEO.jpg)
-
