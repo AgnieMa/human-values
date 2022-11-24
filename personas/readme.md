@@ -1,7 +1,5 @@
 # Personas
 
-Description ... [TODO]
-
 ### First responder
 
 ![First responder](first-responder-woman.jpg)
