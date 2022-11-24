@@ -6,10 +6,6 @@ Description ... [TODO]
 
 ![First responder](first-responder-woman.jpg)
 
-### Pilot
-
-![Pilot](pilot.jpg)
-
 Senior Programmer
 
 ### Senior Programmer
