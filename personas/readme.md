@@ -20,6 +20,10 @@ Senior Programmer
 
 ![FAA Regulator](faa-regulator.jpg)
 
+### CEO
+
+![CEO](CEO.jpg)
+
 ### Pilot
 
 ![Pilot](pilot.jpg)
