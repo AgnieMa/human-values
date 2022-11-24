@@ -20,6 +20,10 @@ Senior Programmer
 
 ![FAA Regulator](faa-regulator.jpg)
 
+### Pilot
+
+![Pilot](pilot.jpg)
+
 ### Outdoor Adventurer
 
 ![Outdoor Adventurer](outdoor-adventurer.jpg)
