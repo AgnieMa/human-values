@@ -20,10 +20,6 @@ Senior Programmer
 
 ![Scurity Expert](security-expert.jpg)
 
-### Legal Counsel
-
-![Legal Counsel](legal-counsel.jpg)
-
 ### FAA Regulator
 
 ![FAA Regulator](faa-regulator.jpg)
