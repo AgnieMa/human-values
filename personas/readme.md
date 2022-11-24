@@ -2,13 +2,9 @@
 
 Description ... [TODO]
 
-### First responder: Nicole Jacobs
+### First responder
 
-![First responder -- Nicole Jacobs](first-responder-woman.jpg)
-
-### First responder: Ed Gugenheimer
-
-![First responder -- Ed Gugenheimer](first-responder-man.jpg)
+![First responder](first-responder-woman.jpg)
 
 ### Pilot
 
